@@ -1,0 +1,3 @@
+rootProject.name = 'IdoMobile'
+
+include ':app', ':extras:react-native-baidumap'
